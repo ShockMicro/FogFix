@@ -1,0 +1,6 @@
+{
+   "pack": {
+      "pack_format": 8,
+      "description": "Provides compat between 1.18.1 and 1.18.2 shader packs."
+   }
+}
